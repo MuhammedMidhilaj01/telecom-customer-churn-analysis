@@ -102,7 +102,7 @@ By applying targeted retention strategies, companies can improve customer satisf
 
 ### Customer Churn Dashboard
 
-![Churn Dashboard](images/dashboard.png)
+![Churn Dashboard](images/Dashboard.png)
 
 ### Business Insights Page
 
